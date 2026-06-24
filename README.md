@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/29299123/README.md)
-# db2026-team-05-# University Management System — Team 03
+# db2026-team-05-# University Management System — Team 05
 
 ## Team Members
 | Name | Student ID |
